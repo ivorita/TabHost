@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabHost</string>
+    <string name="weixin">微信</string>
+    <string name="txl">通讯录</string>
+    <string name="fx">发现</string>
+    <string name="Me">我</string>
+    <string name="four">four</string>
+    <string name="three">three</string>
+    <string name="two">two</string>
+    <string name="one">one</string>
+</resources>
